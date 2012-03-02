@@ -1,0 +1,11 @@
+{
+  "name": "unibrow-server",
+  "description": "Server for unibrow event logging",
+  "author": "Abe Rodriguez <nebula21a@hotmail.com>",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "2.5.x",
+    "socket.io": "0.8.x"
+  },
+  "engine": "node >= 0.6.9"
+}

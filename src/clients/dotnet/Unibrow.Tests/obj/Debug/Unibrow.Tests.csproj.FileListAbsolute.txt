@@ -1,0 +1,13 @@
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Tests\bin\Debug\Unibrow.Tests.dll.config
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Tests\bin\Debug\Unibrow.Tests.dll
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Tests\bin\Debug\Unibrow.Tests.pdb
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Tests\bin\Debug\Unibrow.dll
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Tests\bin\Debug\System.Web.Optimization.dll
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Tests\bin\Debug\Unibrow.pdb
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Tests\obj\Debug\Unibrow.Tests.dll
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Tests\obj\Debug\Unibrow.Tests.pdb
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Tests\bin\Debug\Unibrow.Web.dll
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Tests\bin\Debug\Unibrow.Mvc.dll
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Tests\bin\Debug\Unibrow.Web.pdb
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Tests\bin\Debug\Unibrow.Mvc.pdb

@@ -1,0 +1,7 @@
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Mvc\bin\Debug\Unibrow.Mvc.dll
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Mvc\bin\Debug\Unibrow.Mvc.pdb
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Mvc\bin\Debug\Unibrow.dll
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Mvc\bin\Debug\Unibrow.pdb
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Mvc\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Mvc\obj\Debug\Unibrow.Mvc.dll
+C:\temp\unibrow\src\clients\dotnet\Unibrow.Mvc\obj\Debug\Unibrow.Mvc.pdb

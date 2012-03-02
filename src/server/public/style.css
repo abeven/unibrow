@@ -1,0 +1,27 @@
+body {
+	font-size: 14px;
+	line-height: 1.5em;
+	font-family: "Helvetica","Arial",sans-serif;
+}
+
+h1 {
+	font-size:36px;
+	font-family: Oswald,sans-serif;
+	line-height: 1.5em;
+}
+table {
+	border: 1px solid #CCC;
+	word-wrap: break-word;
+	border-radius: 0.8em;
+	padding:0;
+	padding-bottom:0.2em;
+	width:100%;
+	background: #DDD;
+}
+table tbody  tr{
+	background:#fff;
+}
+table td, table th {
+	padding:0.5em;
+	text-align:left;
+}

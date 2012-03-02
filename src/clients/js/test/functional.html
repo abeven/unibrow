@@ -1,0 +1,29 @@
+<html>
+<head>
+<script type="text/javascript" src="../oo.js"></script>
+<script type="text/javascript" src="http://documentcloud.github.com/underscore/underscore-min.js"></script>
+<script type="text/javascript" src="../unibrow.js"></script>
+</head>
+<body onLoad="javascript:onLoad()">
+	<input id="userId" type="hidden" value="1234"/>
+	<script type="text/javascript">
+	var onLoad = function() { 
+		var cfg = { 		
+			subject: new UB.Subjects.Element('userId'),
+			source:  new UB.Sources.Location(),
+			recipients: [
+				new UB.Recipients.Server({url:'http://localhost:8002/log'}),			
+				new UB.Recipients.Console()
+			]
+		};
+		var log = new UB.Log(cfg);
+		document.getElementById('send').addEventListener('click',function() { 		
+			log.write(document.getElementById('msg').value);
+		});
+	}
+	</script>
+	
+	<input id="msg" type="text" value="hello world" />
+	<button id="send">Send Message</button>
+</body>
+</html>

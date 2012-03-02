@@ -1,0 +1,5 @@
+C:\temp\unibrow\src\clients\dotnet\Unibrow\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\unibrow\src\clients\dotnet\Unibrow\bin\Debug\Unibrow.dll
+C:\temp\unibrow\src\clients\dotnet\Unibrow\bin\Debug\Unibrow.pdb
+C:\temp\unibrow\src\clients\dotnet\Unibrow\obj\Debug\Unibrow.dll
+C:\temp\unibrow\src\clients\dotnet\Unibrow\obj\Debug\Unibrow.pdb
